@@ -1,0 +1,1 @@
+SELECT birth from people WHERE name like "%Emma Stone%";
